@@ -1,0 +1,4 @@
+com\java\springboot\kafka\KafkaProducer.class
+com\java\springboot\SpringbootKafkaProjectApplication.class
+com\java\springboot\config\KafkaTopicConfig.class
+com\java\springboot\controller\MessageController.class
